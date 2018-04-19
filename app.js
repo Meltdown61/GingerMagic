@@ -6,7 +6,8 @@ data:{
     job: 'Web Dev',
     Website: 'http://www.googleie',
     Google: '<a href="https://www.google.ie" target="_blank">Google</a>',
-    age:52
+    age:52,
+    location: "Eire"
 
 },
 methods:{
