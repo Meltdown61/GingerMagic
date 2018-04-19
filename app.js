@@ -2,9 +2,9 @@ new Vue({
 el:'#vue-app',
 data:{
     
-    name:'Dave Fitz',
+    name:'Mr Google',
     job: 'Web Dev',
-    Website: 'http://www.jumbletown.ie',
+    Website: 'http://www.googleie',
     Google: '<a href="https://www.google.ie" target="_blank">Google</a>',
     age:52
 
